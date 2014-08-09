@@ -1,0 +1,18 @@
+body{
+	font-size:12px;
+	font-family:Tahoma;
+}
+h1{
+	width:100%;
+	border-bottom:1px dotted #000;
+	font-size:35px;
+	padding-bottom: 10px;
+	margin-bottom:10px;
+}
+#result{
+	width:100%;
+	margin:auto;
+	background-color:blanchedalmond;
+	padding: 10px;
+	border-right: 10px;
+}
